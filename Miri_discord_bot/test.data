@@ -1,0 +1,48 @@
+[313456175163375617]
+pet.sammy.growth = puppy
+pet.sammy.sleepdays = 1
+pet.sammy.hunger = full
+pet.sammy.hunger_meter = 100
+pet.sammy.mood = relaxed
+pet.sammy.energy = 100
+pet.sammy.img = dog1.jpg
+pet.sammy.img_play = dog1_play.gif
+pet.sammy.img_play2 = dog1_play2.gif
+pet.sammy.img_sleep = dog1_sleep.gif
+pet.sammy.img_sleep2 = dog1_sleep2.gif
+pet.chester.growth = puppy
+pet.chester.sleepdays = 1
+pet.chester.hunger = not hungry
+pet.chester.hunger_meter = 100
+pet.chester.mood = happy
+pet.chester.energy = 60
+pet.chester.img = dog2.jpg
+pet.chester.img_play = dog2_play.gif
+pet.chester.img_play2 = dog2_play2.gif
+pet.chester.img_sleep = dog2_sleep.gif
+pet.chester.img_sleep2 = dog2_sleep2.gif
+
+[633046400296419351]
+pet.mía.growth = puppy
+pet.mía.sleepdays = 1
+pet.mía.hunger = full
+pet.mía.hunger_meter = 100
+pet.mía.mood = happy
+pet.mía.energy = 80
+pet.mía.img = dog3.jpg
+pet.mía.img_play = dog3_play.gif
+pet.mía.img_play2 = dog3_play2.gif
+pet.mía.img_sleep = dog3_sleep.gif
+pet.mía.img_sleep2 = dog3_sleep2.gif
+pet.milaneso.growth = puppy
+pet.milaneso.sleepdays = 1
+pet.milaneso.hunger = not hungry
+pet.milaneso.hunger_meter = 100
+pet.milaneso.mood = relaxed
+pet.milaneso.energy = 100
+pet.milaneso.img = dog4.jpg
+pet.milaneso.img_play = dog4_play.gif
+pet.milaneso.img_play2 = dog4_play2.gif
+pet.milaneso.img_sleep = dog4_sleep.gif
+pet.milaneso.img_sleep2 = dog4_sleep2.gif
+

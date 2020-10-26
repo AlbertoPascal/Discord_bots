@@ -1,0 +1,4 @@
+funciones extra:
+Pet 
+Walk
+shower para bañarlos. 
